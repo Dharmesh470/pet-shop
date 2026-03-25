@@ -140,7 +140,7 @@ pet_shop/
 
 ## 📸 Screenshots
 
-_Coming soon_
+
 
 ---
 
@@ -159,5 +159,8 @@ This project is open-source and available for educational purposes.
 5. Open a Pull Request
 
 ---
+## AUTHOR 
+   Dharmesh shinde 
+   
 
 > Built with ❤️ for pet lovers everywhere
